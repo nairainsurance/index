@@ -488,6 +488,10 @@ h6,
 #header6-9 .mbr-section-text {
   color: #565656;
 }
+#social-buttons2-j .mbr-section-title,
+#social-buttons2-j .btn-social {
+  color: #232323;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
