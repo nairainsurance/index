@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"true\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
         },
         {
           "_name": "header1",
@@ -179,11 +179,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "BOOTSTRAP SLIDER",
+                "title": "",
                 "showText": true,
                 "text": "Get 200% of what you invest within 24 hours",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -203,15 +203,15 @@
                 "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
-                "videoUrl": "",
+                "videoUrl": "https://youtu.be/Xj8hhcRK7RU",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "BACKGROUND VIDEO",
+                "title": "",
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ],
             "bgColor": "#fff",
@@ -234,7 +234,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Naira pay"
+          "text": "Copyright (c) 2017 Naira insurance"
         },
         {
           "_inherit": "header2",
@@ -291,7 +291,32 @@
           },
           "title": "watch our youtube video",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/Xj8hhcRK7RU\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-h",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "https://youtu.be/Xj8hhcRK7RU",
+            "facebook": "insurance",
+            "twitter": "insurance",
+            "google": "insurance",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         }
       ]
     },
@@ -346,7 +371,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Naira pay"
+          "text": "Copyright (c) 2017 Naira insurance"
         },
         {
           "_styles": {
@@ -437,7 +462,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NAIRA INSURANCE.COM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\">LOGIN</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT US<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Here you get 200% of what you invest by providing help to a member assigned to you after you request to provide help which after you pay and confirmed our system will automatically merge two people to pay you the same amount you provided each.Our time interval is on or before 7days but since our site is still new and fresh we are able to pay our member within 24hours after they registered. we are here to change ponzi scheme into real and lasting one so therefore our system dont tolerate unserious members because our purge system is very active both manual and automatic so you have 24hours to make payment from the time you were merged to pay or you will be purge from the system.<br><br>we have different packages of which you can register on, Classic package is 5,000naira to get 10,000naira in return, professional package is 10,000naira to get 20,000naira in return,premium package is 20,000naira to get 40,000naira in return, ultimate package is 50,000nair to get 100,000 in return. we shall soon introduce 100,000naira package which is golden package to get 200,000naira in return.below are the various packages we have</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://moneyflow.mobie.in/login\" aria-expanded=\"true\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://nairainsurance.github.io/index/\">view our packages</a></li>"
         }
       ]
     }
